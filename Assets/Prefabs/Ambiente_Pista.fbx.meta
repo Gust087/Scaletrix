@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: d483bdd2f9fd3114bb4c941adaad8a83
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BezierCurve.003
+    100004: BezierCurve.004
+    100006: BezierCurve.005
+    100008: BezierCurve.006
+    100010: BezierCurve.007
+    100012: BezierCurve.008
+    100014: BezierCurve.009
+    100016: BezierCurve.010
+    100018: BezierCurve.011
+    100020: BezierCurve.012
+    100022: BezierCurve.013
+    100024: BezierCurve.014
+    100026: BezierCurve.015
+    100028: BezierCurve.017
+    100030: Circle.000
+    100032: Cube.002
+    100034: Cube.003
+    100036: Cube.039
+    100038: Cube.040
+    100040: Cube.041
+    100042: Cube.042
+    100044: Cube.043
+    100046: Cube.044
+    100048: Cube.045
+    100050: Cube.046
+    100052: Cube.047
+    100054: Cube.048
+    100056: Cube.049
+    100058: Cube.050
+    100060: Cube.051
+    100062: Cube.052
+    100064: Cube.053
+    100066: Cube.054
+    100068: Cylinder.004
+    100070: Cylinder.005
+    100072: Icosphere.003
+    100074: Icosphere.004
+    100076: Icosphere.005
+    100078: Icosphere.006
+    100080: Icosphere.007
+    100082: Icosphere.008
+    100084: Icosphere.009
+    100086: Icosphere.010
+    100088: Icosphere.011
+    100090: Icosphere.013
+    100092: Icosphere.014
+    100094: Icosphere.015
+    100096: Icosphere.017
+    100098: Icosphere.018
+    100100: Plane
+    100102: Plane.002
+    400000: //RootNode
+    400002: BezierCurve.003
+    400004: BezierCurve.004
+    400006: BezierCurve.005
+    400008: BezierCurve.006
+    400010: BezierCurve.007
+    400012: BezierCurve.008
+    400014: BezierCurve.009
+    400016: BezierCurve.010
+    400018: BezierCurve.011
+    400020: BezierCurve.012
+    400022: BezierCurve.013
+    400024: BezierCurve.014
+    400026: BezierCurve.015
+    400028: BezierCurve.017
+    400030: Circle.000
+    400032: Cube.002
+    400034: Cube.003
+    400036: Cube.039
+    400038: Cube.040
+    400040: Cube.041
+    400042: Cube.042
+    400044: Cube.043
+    400046: Cube.044
+    400048: Cube.045
+    400050: Cube.046
+    400052: Cube.047
+    400054: Cube.048
+    400056: Cube.049
+    400058: Cube.050
+    400060: Cube.051
+    400062: Cube.052
+    400064: Cube.053
+    400066: Cube.054
+    400068: Cylinder.004
+    400070: Cylinder.005
+    400072: Icosphere.003
+    400074: Icosphere.004
+    400076: Icosphere.005
+    400078: Icosphere.006
+    400080: Icosphere.007
+    400082: Icosphere.008
+    400084: Icosphere.009
+    400086: Icosphere.010
+    400088: Icosphere.011
+    400090: Icosphere.013
+    400092: Icosphere.014
+    400094: Icosphere.015
+    400096: Icosphere.017
+    400098: Icosphere.018
+    400100: Plane
+    400102: Plane.002
+    2100000: Techo
+    2100002: Material.002
+    2100004: Material.001
+    2100006: Vidrio.001
+    2100008: Material.005
+    2100010: Material.006
+    2100012: plastico
+    2100014: No Name
+    2100016: Material.007
+    2100018: Material
+    2100020: Material.004
+    2100022: Metal
+    2100024: Luz
+    2300000: BezierCurve.003
+    2300002: BezierCurve.004
+    2300004: BezierCurve.005
+    2300006: BezierCurve.006
+    2300008: BezierCurve.007
+    2300010: BezierCurve.008
+    2300012: BezierCurve.009
+    2300014: BezierCurve.010
+    2300016: BezierCurve.011
+    2300018: BezierCurve.012
+    2300020: BezierCurve.013
+    2300022: BezierCurve.014
+    2300024: BezierCurve.015
+    2300026: BezierCurve.017
+    2300028: Circle.000
+    2300030: Cube.002
+    2300032: Cube.003
+    2300034: Cube.039
+    2300036: Cube.040
+    2300038: Cube.041
+    2300040: Cube.042
+    2300042: Cube.043
+    2300044: Cube.044
+    2300046: Cube.045
+    2300048: Cube.046
+    2300050: Cube.047
+    2300052: Cube.048
+    2300054: Cube.049
+    2300056: Cube.050
+    2300058: Cube.051
+    2300060: Cube.052
+    2300062: Cube.053
+    2300064: Cube.054
+    2300066: Cylinder.004
+    2300068: Cylinder.005
+    2300070: Icosphere.003
+    2300072: Icosphere.004
+    2300074: Icosphere.005
+    2300076: Icosphere.006
+    2300078: Icosphere.007
+    2300080: Icosphere.008
+    2300082: Icosphere.009
+    2300084: Icosphere.010
+    2300086: Icosphere.011
+    2300088: Icosphere.013
+    2300090: Icosphere.014
+    2300092: Icosphere.015
+    2300094: Icosphere.017
+    2300096: Icosphere.018
+    2300098: Plane
+    2300100: Plane.002
+    3300000: BezierCurve.003
+    3300002: BezierCurve.004
+    3300004: BezierCurve.005
+    3300006: BezierCurve.006
+    3300008: BezierCurve.007
+    3300010: BezierCurve.008
+    3300012: BezierCurve.009
+    3300014: BezierCurve.010
+    3300016: BezierCurve.011
+    3300018: BezierCurve.012
+    3300020: BezierCurve.013
+    3300022: BezierCurve.014
+    3300024: BezierCurve.015
+    3300026: BezierCurve.017
+    3300028: Circle.000
+    3300030: Cube.002
+    3300032: Cube.003
+    3300034: Cube.039
+    3300036: Cube.040
+    3300038: Cube.041
+    3300040: Cube.042
+    3300042: Cube.043
+    3300044: Cube.044
+    3300046: Cube.045
+    3300048: Cube.046
+    3300050: Cube.047
+    3300052: Cube.048
+    3300054: Cube.049
+    3300056: Cube.050
+    3300058: Cube.051
+    3300060: Cube.052
+    3300062: Cube.053
+    3300064: Cube.054
+    3300066: Cylinder.004
+    3300068: Cylinder.005
+    3300070: Icosphere.003
+    3300072: Icosphere.004
+    3300074: Icosphere.005
+    3300076: Icosphere.006
+    3300078: Icosphere.007
+    3300080: Icosphere.008
+    3300082: Icosphere.009
+    3300084: Icosphere.010
+    3300086: Icosphere.011
+    3300088: Icosphere.013
+    3300090: Icosphere.014
+    3300092: Icosphere.015
+    3300094: Icosphere.017
+    3300096: Icosphere.018
+    3300098: Plane
+    3300100: Plane.002
+    4300000: Cube.003
+    4300002: Plane.002
+    4300004: Cube.002
+    4300006: Icosphere.018
+    4300008: BezierCurve.017
+    4300010: BezierCurve.015
+    4300012: BezierCurve.013
+    4300014: Circle.000
+    4300016: Cylinder.005
+    4300018: Cube.054
+    4300020: Cube.053
+    4300022: Cube.051
+    4300024: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz
+    second: {fileID: 2100000, guid: 347843fe66871f24b8e2507567d3d47b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 307060c777cf41a40b8501a8e5cf511f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: e6bdb98fd2639fa459429f95228b69a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: cbc827904d7aa1c4fa09b3ea87898f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: d704df1d4b18ee346b49dcc23834da78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 26263ae3f35d62843a6adbd07b937616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 30522f079cffa774dbc5cb2ca237a3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 11be7c6d85cf8d046bdcb17ba774dc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: d54145ae0c272524e82491eb9c75a5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a888409497636fe4d984caa564dc596e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: 0711c942aa81c014896edd0c620ab5c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio.001
+    second: {fileID: 2100000, guid: 5bd319b065dc27348b9b115dfaace48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastico
+    second: {fileID: 2100000, guid: 800145b43736718438a1da24e50665ca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

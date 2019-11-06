@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 9adb7d90c426f864fab84cb5946b0fce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group1
+    100004: Group2
+    100006: Head
+    100008: Hips
+    100010: Horse
+    100012: Hyrule_warriors___Ganondorf_s_pferd1
+    100014: Jaw
+    100016: L_Ear
+    100018: L_EarTop
+    100020: L_Eye
+    100022: LeftArm
+    100024: LeftFinger1
+    100026: LeftFoot
+    100028: LeftForeArm
+    100030: LeftHand
+    100032: LeftLeg
+    100034: LeftToeBase
+    100036: LeftToeBaseEnd
+    100038: LeftUpLeg
+    100040: Main
+    100042: Mesh3
+    100044: Model
+    100046: MouthTop
+    100048: Neck
+    100050: Neck1
+    100052: Neck2
+    100054: R_Ear
+    100056: R_EarTop
+    100058: R_Eye
+    100060: RightArm
+    100062: RightFinger1
+    100064: RightFoot
+    100066: RightforeArm
+    100068: RightHand
+    100070: Rightleg
+    100072: RightToeBase
+    100074: RightToeBaseEnd
+    100076: RightUpLeg
+    100078: Root
+    100080: skpAE35_1
+    100082: Spine
+    100084: Spine1
+    100086: Tail1
+    100088: Tail2
+    100090: Tail3
+    100092: Tail4
+    100094: Tail5
+    100096: Volume01
+    100098: Volume02
+    100100: Volume03
+    100102: Volume04
+    400000: //RootNode
+    400002: Group1
+    400004: Group2
+    400006: Head
+    400008: Hips
+    400010: Horse
+    400012: Hyrule_warriors___Ganondorf_s_pferd1
+    400014: Jaw
+    400016: L_Ear
+    400018: L_EarTop
+    400020: L_Eye
+    400022: LeftArm
+    400024: LeftFinger1
+    400026: LeftFoot
+    400028: LeftForeArm
+    400030: LeftHand
+    400032: LeftLeg
+    400034: LeftToeBase
+    400036: LeftToeBaseEnd
+    400038: LeftUpLeg
+    400040: Main
+    400042: Mesh3
+    400044: Model
+    400046: MouthTop
+    400048: Neck
+    400050: Neck1
+    400052: Neck2
+    400054: R_Ear
+    400056: R_EarTop
+    400058: R_Eye
+    400060: RightArm
+    400062: RightFinger1
+    400064: RightFoot
+    400066: RightforeArm
+    400068: RightHand
+    400070: Rightleg
+    400072: RightToeBase
+    400074: RightToeBaseEnd
+    400076: RightUpLeg
+    400078: Root
+    400080: skpAE35_1
+    400082: Spine
+    400084: Spine1
+    400086: Tail1
+    400088: Tail2
+    400090: Tail3
+    400092: Tail4
+    400094: Tail5
+    400096: Volume01
+    400098: Volume02
+    400100: Volume03
+    400102: Volume04
+    2100000: Steve_Shoes1
+    2100002: messing_glans
+    2100004: _auto_
+    2100006: 'Material #4'
+    4300000: Mesh3
+    4300002: Horse
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Horse
+    13700002: Mesh3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: e3148933e334fe94e9df723f7ab2bdc6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
